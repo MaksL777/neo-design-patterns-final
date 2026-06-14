@@ -1,0 +1,31 @@
+{
+  "header": {
+    "name": "Олександр Петренко",
+    "email": "alex@example.com",
+    "phone": "+38 (050) 123-45-67"
+  },
+  "summary": "Full-Stack розробник з 5-річним досвідом. Спеціалізуюся на TypeScript, Node.js та архітектурі програмного забезпечення.",
+  "experience": [
+    {
+      "company": "Tech Solutions LLC",
+      "projects": [
+        {
+          "name": "E-commerce Platform",
+          "description": "Розробка мікросервісної архітектури для інтернет-магазину.",
+          "isRecent": true
+        },
+        {
+          "name": "Legacy CRM",
+          "description": "Підтримка та рефакторинг старої CRM системи.",
+          "isRecent": false
+        }
+      ]
+    }
+  ],
+  "education": [
+    "Магістр комп'ютерних наук, Київський політехнічний інститут"
+  ],
+  "skills": [
+    "JavaScript", "TypeScript", "Node.js", "Design Patterns", "React"
+  ]
+}
